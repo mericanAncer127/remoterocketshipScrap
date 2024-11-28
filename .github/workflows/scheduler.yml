@@ -1,0 +1,40 @@
+name: Run Job Scraper Script
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */2 * * *"  # This runs the script every 2 hours (UTC)
+  workflow_dispatch:
+
+jobs:
+  run-job-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # Use Node.js version 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run the job scraper script
+        run: npm start
+
+      - name: Upload job openings JSON
+        uses: actions/upload-artifact@v3
+        with:
+          name: job_openings_json
+          path: job_openings.json
+
+      - name: Upload job openings CSV
+        uses: actions/upload-artifact@v3
+        with:
+          name: job_openings_csv
+          path: job_openings.csv
