@@ -38,12 +38,15 @@ jobs:
           git add jobs_remoterocketship.csv jobs_smartrecruiters.csv
           git commit -m "Update job openings CSV files [skip ci]" || echo "No changes to commit"
           git push origin update-csv-files
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update-csv-files
-          base: main
-          title: "Update job openings CSV files"
-          body: "Automated update of CSV files."
 
+      - name: Upload jobs_remoterocketship.csv
+        uses: actions/upload-artifact@v3
+        with:
+          name: jobs_remoterocketship
+          path: jobs_remoterocketship.csv
+
+      - name: Upload jobs_smartrecruiters.csv
+        uses: actions/upload-artifact@v3
+        with:
+          name: jobs_smartrecruiters
+          path: jobs_smartrecruiters.csv
