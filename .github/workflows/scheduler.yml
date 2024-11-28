@@ -25,16 +25,12 @@ jobs:
         run: npm install
 
       - name: Run the job scraper script
-        run: npm start
+        run: node index.js
 
-      - name: Upload job openings JSON
-        uses: actions/upload-artifact@v3
-        with:
-          name: job_openings_json
-          path: job_openings.json
-
-      - name: Upload job openings CSV
-        uses: actions/upload-artifact@v3
-        with:
-          name: job_openings_csv
-          path: job_openings.csv
+      - name: Commit and push CSV files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs_remoterocketship.csv jobs_smartrecruiters.csv
+          git commit -m "Update job openings CSV files [skip ci]" || echo "No changes to commit"
+          git push origin main
