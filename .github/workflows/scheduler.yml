@@ -28,9 +28,13 @@ jobs:
         run: node index.js
 
       - name: Commit and push CSV files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add jobs_remoterocketship.csv jobs_smartrecruiters.csv
           git commit -m "Update job openings CSV files [skip ci]" || echo "No changes to commit"
           git push origin main
