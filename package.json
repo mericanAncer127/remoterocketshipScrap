@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
+    "json2csv": "^6.0.0-alpha.2",
     "node-fetch": "^3.3.0"
   },
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
