@@ -1,5 +1,54 @@
 [
   {
+    "id": 13822891,
+    "created_at": "2024-11-28T06:24:10.832+00:00",
+    "validUntilDate": null,
+    "dateDeleted": null,
+    "roleTitle": "Servicenow Software Architect",
+    "jobDescriptionSummary": "Software Architect managing ServiceNow developments for financial institutions.",
+    "twoLineJobDescriptionSummary": "Join Vichara as a Software Architect for ServiceNow enhancements at CUNY. Focus on ITSM modules for financial services clients.",
+    "educationRequirementsCredentialCategory": null,
+    "url": "https://jobs.smartrecruiters.com/vichara/744000028767836-servicenow-software-architect",
+    "seniorityRange": [
+      "senior",
+      "expert"
+    ],
+    "salaryRange": {
+      "max": 80,
+      "min": 70,
+      "salaryType": "per hour",
+      "currencyCode": "USD",
+      "currencySymbol": "$",
+      "maxSalaryAsUSD": 80,
+      "minSalaryAsUSD": 70,
+      "salaryHumanReadableText": "$70 - $80"
+    },
+    "techStack": [
+      "ITSM",
+      "ServiceNow",
+      "Go"
+    ],
+    "slug": "servicenow-software-architect-object-object",
+    "isPromoted": false,
+    "employmentType": "full-time",
+    "location": "United States",
+    "locationHumanReadableText": "🇺🇸 United States",
+    "categorizedJobTitle": "Full-stack Engineer",
+    "categorizedJobFunction": "Software Engineer",
+    "company": {
+      "id": 192880,
+      "name": "Vichara Technologies",
+      "slug": "vichara",
+      "fundingData": [],
+      "homePageURL": "http://www.vichara.com/",
+      "linkedInURL": "https://www.linkedin.com/company/vichara-technologies",
+      "sponsorsH1B": true,
+      "employeeRange": "201,500",
+      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Vichara%20Technologies.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=UJxgKxlBebS18SV4VY%2FmvKlaF9MhjNQut%2FrYXvHRQ6oWL1Fvh12G%2BmErx%2BtfkC73xbRO6gImFFlcyvlqnQc1KqzabPHIEQnW6nfwfgNdtiIffwEk3CQ9ffdFYkCpV937aJULr2wiUDa96lsdywihHLXXZU0DrjzSF5mkFc57QKW5CKl82ENFbfBWfy21U1QrQbAwY5vf6NAVPMN7DwdWXAw%2BE6jAFQ7n%2B6Ulb64AzQOXjA%2Bd4M9OI9BSlii9Ho0y5WKGDNMgi3MfqAIabwyEGBUNDxObWfWt%2B0DLDs1YNYZqt5QBoutVD9Xl9Vy%2BloRTnntxuXqgW9yVTn1IafMzAQ%3D%3D",
+      "sponsorsUKSkilledWorkerVisa": false
+    }
+  },
+  {
     "id": 13822838,
     "created_at": "2024-11-28T06:03:50.763+00:00",
     "validUntilDate": null,
@@ -2887,55 +2936,6 @@
     }
   },
   {
-    "id": 13821003,
-    "created_at": "2024-11-27T12:27:39.456+00:00",
-    "validUntilDate": null,
-    "dateDeleted": null,
-    "roleTitle": "Senior Software Engineer - Enterprise WordPress",
-    "jobDescriptionSummary": "Senior Software Engineer at WordPress VIP, developing enterprise WordPress solutions.",
-    "twoLineJobDescriptionSummary": "Join WordPress VIP as a Senior Software Engineer, designing enterprise solutions for large clients.\nContribute to modern content experiences with collaborative teams.",
-    "educationRequirementsCredentialCategory": null,
-    "url": "https://boards.greenhouse.io/automattichappiness/jobs/6429936",
-    "seniorityRange": [
-      "senior"
-    ],
-    "salaryRange": {
-      "max": 170000,
-      "min": 70000,
-      "salaryType": "per year",
-      "currencyCode": "USD",
-      "currencySymbol": "$",
-      "maxSalaryAsUSD": 170000,
-      "minSalaryAsUSD": 70000,
-      "salaryHumanReadableText": "$70,000 - $170,000"
-    },
-    "techStack": [
-      "Open Source",
-      "PHP",
-      "React",
-      "WordPress"
-    ],
-    "slug": "senior-software-engineer-enterprise-wordpress-united-states",
-    "isPromoted": false,
-    "employmentType": "full-time",
-    "location": "United States",
-    "locationHumanReadableText": "🇺🇸 United States",
-    "categorizedJobTitle": "Full-stack Engineer",
-    "categorizedJobFunction": "Software Engineer",
-    "company": {
-      "id": 191832,
-      "name": "Automattic",
-      "slug": "automattic-2",
-      "fundingData": [],
-      "homePageURL": "https://automattic.com/how-we-work/",
-      "linkedInURL": "https://www.linkedin.com/company/automattic/",
-      "sponsorsH1B": true,
-      "employeeRange": "1001,5000",
-      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Automattic.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=KIAScIZVkfcmpbikIF0JGv7WUAc33CPmvBHkcvBrXLQCAQ%2FGCTRk%2F2PtZxZ7K7zfF92nETBIgMElWbXeQyI8sntsAUnKSiEfgCpJjGsoHsWSLpI0zPxNESjF6lGaxJ%2FLGYpbJt%2BpaZhBQOlbVNq%2BJV7vPqcWyfBfG6FZhdjdzraoNN%2FRfN7kZif3v97592N7Rh8lN8silNhrmg3LEGkQ07eyE6sGIC1XwPF7kP%2FOFUuYqJY4bRrJPuciydv0OTTd4l7ClHFY0tMCABnY7zvqo6R%2BjP%2FWK8MwxmJXyOX85AuDBszC%2Bc%2FSBgBgq4nFRysu36cTVnFBH8vZYrTQYRfZgA%3D%3D",
-      "sponsorsUKSkilledWorkerVisa": true
-    }
-  },
-  {
     "id": 13821002,
     "created_at": "2024-11-27T12:27:39.456+00:00",
     "validUntilDate": null,
@@ -3022,6 +3022,55 @@
       "Go"
     ],
     "slug": "senior-software-engineer-united-states",
+    "isPromoted": false,
+    "employmentType": "full-time",
+    "location": "United States",
+    "locationHumanReadableText": "🇺🇸 United States",
+    "categorizedJobTitle": "Full-stack Engineer",
+    "categorizedJobFunction": "Software Engineer",
+    "company": {
+      "id": 191832,
+      "name": "Automattic",
+      "slug": "automattic-2",
+      "fundingData": [],
+      "homePageURL": "https://automattic.com/how-we-work/",
+      "linkedInURL": "https://www.linkedin.com/company/automattic/",
+      "sponsorsH1B": true,
+      "employeeRange": "1001,5000",
+      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Automattic.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=KIAScIZVkfcmpbikIF0JGv7WUAc33CPmvBHkcvBrXLQCAQ%2FGCTRk%2F2PtZxZ7K7zfF92nETBIgMElWbXeQyI8sntsAUnKSiEfgCpJjGsoHsWSLpI0zPxNESjF6lGaxJ%2FLGYpbJt%2BpaZhBQOlbVNq%2BJV7vPqcWyfBfG6FZhdjdzraoNN%2FRfN7kZif3v97592N7Rh8lN8silNhrmg3LEGkQ07eyE6sGIC1XwPF7kP%2FOFUuYqJY4bRrJPuciydv0OTTd4l7ClHFY0tMCABnY7zvqo6R%2BjP%2FWK8MwxmJXyOX85AuDBszC%2Bc%2FSBgBgq4nFRysu36cTVnFBH8vZYrTQYRfZgA%3D%3D",
+      "sponsorsUKSkilledWorkerVisa": true
+    }
+  },
+  {
+    "id": 13821003,
+    "created_at": "2024-11-27T12:27:39.456+00:00",
+    "validUntilDate": null,
+    "dateDeleted": null,
+    "roleTitle": "Senior Software Engineer - Enterprise WordPress",
+    "jobDescriptionSummary": "Senior Software Engineer at WordPress VIP, developing enterprise WordPress solutions.",
+    "twoLineJobDescriptionSummary": "Join WordPress VIP as a Senior Software Engineer, designing enterprise solutions for large clients.\nContribute to modern content experiences with collaborative teams.",
+    "educationRequirementsCredentialCategory": null,
+    "url": "https://boards.greenhouse.io/automattichappiness/jobs/6429936",
+    "seniorityRange": [
+      "senior"
+    ],
+    "salaryRange": {
+      "max": 170000,
+      "min": 70000,
+      "salaryType": "per year",
+      "currencyCode": "USD",
+      "currencySymbol": "$",
+      "maxSalaryAsUSD": 170000,
+      "minSalaryAsUSD": 70000,
+      "salaryHumanReadableText": "$70,000 - $170,000"
+    },
+    "techStack": [
+      "Open Source",
+      "PHP",
+      "React",
+      "WordPress"
+    ],
+    "slug": "senior-software-engineer-enterprise-wordpress-united-states",
     "isPromoted": false,
     "employmentType": "full-time",
     "location": "United States",
@@ -4838,34 +4887,32 @@
     }
   },
   {
-    "id": 7054911,
+    "id": 10417334,
     "created_at": "2024-11-27T07:08:28.809+00:00",
     "validUntilDate": null,
     "dateDeleted": null,
     "roleTitle": "Software Engineer - Frontend",
-    "jobDescriptionSummary": "Develop user-facing features for Coinbase's crypto products.",
-    "twoLineJobDescriptionSummary": "Join Coinbase as a frontend engineer to build accessible crypto products and features.",
+    "jobDescriptionSummary": "Build products for high net worth individuals at Coinbase.",
+    "twoLineJobDescriptionSummary": "Join Coinbase as a Software Engineer to develop products for high net worth individuals and enhance customer experiences.",
     "educationRequirementsCredentialCategory": null,
-    "url": "https://boards.greenhouse.io/coinbase/jobs/5948951",
+    "url": "https://boards.greenhouse.io/coinbase/jobs/5948954",
     "seniorityRange": [
       "junior",
       "mid"
     ],
     "salaryRange": {
       "max": 174000,
-      "min": 147900,
+      "min": 147000,
       "salaryType": "per year",
       "currencyCode": "USD",
       "currencySymbol": "$",
       "maxSalaryAsUSD": 174000,
-      "minSalaryAsUSD": 147900,
-      "salaryHumanReadableText": "$147,900 - $174,000"
+      "minSalaryAsUSD": 147000,
+      "salaryHumanReadableText": "$147,000 - $174,000"
     },
     "techStack": [
       "JavaScript",
-      "React",
-      "React Native",
-      "Web3"
+      "React"
     ],
     "slug": "software-engineer-frontend-united-states",
     "isPromoted": false,
@@ -4999,32 +5046,34 @@
     }
   },
   {
-    "id": 10417334,
+    "id": 7054911,
     "created_at": "2024-11-27T07:08:28.809+00:00",
     "validUntilDate": null,
     "dateDeleted": null,
     "roleTitle": "Software Engineer - Frontend",
-    "jobDescriptionSummary": "Build products for high net worth individuals at Coinbase.",
-    "twoLineJobDescriptionSummary": "Join Coinbase as a Software Engineer to develop products for high net worth individuals and enhance customer experiences.",
+    "jobDescriptionSummary": "Develop user-facing features for Coinbase's crypto products.",
+    "twoLineJobDescriptionSummary": "Join Coinbase as a frontend engineer to build accessible crypto products and features.",
     "educationRequirementsCredentialCategory": null,
-    "url": "https://boards.greenhouse.io/coinbase/jobs/5948954",
+    "url": "https://boards.greenhouse.io/coinbase/jobs/5948951",
     "seniorityRange": [
       "junior",
       "mid"
     ],
     "salaryRange": {
       "max": 174000,
-      "min": 147000,
+      "min": 147900,
       "salaryType": "per year",
       "currencyCode": "USD",
       "currencySymbol": "$",
       "maxSalaryAsUSD": 174000,
-      "minSalaryAsUSD": 147000,
-      "salaryHumanReadableText": "$147,000 - $174,000"
+      "minSalaryAsUSD": 147900,
+      "salaryHumanReadableText": "$147,900 - $174,000"
     },
     "techStack": [
       "JavaScript",
-      "React"
+      "React",
+      "React Native",
+      "Web3"
     ],
     "slug": "software-engineer-frontend-united-states",
     "isPromoted": false,
@@ -6725,15 +6774,15 @@
     }
   },
   {
-    "id": 13818861,
+    "id": 13818860,
     "created_at": "2024-11-27T04:40:23.166+00:00",
     "validUntilDate": null,
     "dateDeleted": null,
     "roleTitle": "Senior Frontend Engineer",
-    "jobDescriptionSummary": "Senior Frontend Engineer for Parse.ly at Automattic, building user-friendly applications.",
-    "twoLineJobDescriptionSummary": "Join Automattic's Parse.ly team as a Senior Frontend Engineer, enhancing analytics platforms for major digital sites.",
-    "educationRequirementsCredentialCategory": "bachelor degree",
-    "url": "https://boards.greenhouse.io/automatticcareers/jobs/6434178",
+    "jobDescriptionSummary": "Build impactful interfaces for enterprise WordPress solutions.",
+    "twoLineJobDescriptionSummary": "Join Automattic as a Senior Frontend Engineer to create user-friendly interfaces for WordPress VIP. Work collaboratively in a remote-first environment, focusing on high-impact projects.",
+    "educationRequirementsCredentialCategory": null,
+    "url": "https://boards.greenhouse.io/automatticcareers/jobs/6434169",
     "seniorityRange": [
       "senior"
     ],
@@ -6748,17 +6797,13 @@
       "salaryHumanReadableText": "$70,000 - $170,000"
     },
     "techStack": [
-      "D3.js",
-      "Django",
-      "ElasticSearch",
       "JavaScript",
-      "Numpy",
       "Open Source",
-      "Pandas",
-      "Python",
+      "React",
       "TypeScript",
       "Vue.js",
-      "WordPress"
+      "WordPress",
+      "Go"
     ],
     "slug": "senior-frontend-engineer-united-states",
     "isPromoted": false,
@@ -6847,15 +6892,15 @@
     }
   },
   {
-    "id": 13818860,
+    "id": 13818861,
     "created_at": "2024-11-27T04:40:23.166+00:00",
     "validUntilDate": null,
     "dateDeleted": null,
     "roleTitle": "Senior Frontend Engineer",
-    "jobDescriptionSummary": "Build impactful interfaces for enterprise WordPress solutions.",
-    "twoLineJobDescriptionSummary": "Join Automattic as a Senior Frontend Engineer to create user-friendly interfaces for WordPress VIP. Work collaboratively in a remote-first environment, focusing on high-impact projects.",
-    "educationRequirementsCredentialCategory": null,
-    "url": "https://boards.greenhouse.io/automatticcareers/jobs/6434169",
+    "jobDescriptionSummary": "Senior Frontend Engineer for Parse.ly at Automattic, building user-friendly applications.",
+    "twoLineJobDescriptionSummary": "Join Automattic's Parse.ly team as a Senior Frontend Engineer, enhancing analytics platforms for major digital sites.",
+    "educationRequirementsCredentialCategory": "bachelor degree",
+    "url": "https://boards.greenhouse.io/automatticcareers/jobs/6434178",
     "seniorityRange": [
       "senior"
     ],
@@ -6870,13 +6915,17 @@
       "salaryHumanReadableText": "$70,000 - $170,000"
     },
     "techStack": [
+      "D3.js",
+      "Django",
+      "ElasticSearch",
       "JavaScript",
+      "Numpy",
       "Open Source",
-      "React",
+      "Pandas",
+      "Python",
       "TypeScript",
       "Vue.js",
-      "WordPress",
-      "Go"
+      "WordPress"
     ],
     "slug": "senior-frontend-engineer-united-states",
     "isPromoted": false,
@@ -7942,6 +7991,47 @@
     }
   },
   {
+    "id": 13818478,
+    "created_at": "2024-11-27T03:04:53.938+00:00",
+    "validUntilDate": null,
+    "dateDeleted": null,
+    "roleTitle": "ServiceNow Administrator - Developer",
+    "jobDescriptionSummary": "ServiceNow Administrator & Developer for DHS ServiceNow environment.",
+    "twoLineJobDescriptionSummary": "Join LightFeather as a ServiceNow Administrator & Developer, managing the DHS ServiceNow environment.",
+    "educationRequirementsCredentialCategory": "bachelor degree",
+    "url": "https://lightfeather.applytojob.com/apply/pCNeUhBb4a/ServiceNow-Administrator-And-Developer",
+    "seniorityRange": [
+      "mid",
+      "senior"
+    ],
+    "salaryRange": null,
+    "techStack": [
+      "ITSM",
+      "JavaScript",
+      "ServiceNow",
+      "Swift"
+    ],
+    "slug": "servicenow-administrator-developer-united-states",
+    "isPromoted": false,
+    "employmentType": "full-time",
+    "location": "United States",
+    "locationHumanReadableText": "🇺🇸 United States",
+    "categorizedJobTitle": "Software Engineer",
+    "categorizedJobFunction": "Software Engineer",
+    "company": {
+      "id": 92314,
+      "name": "LightFeather",
+      "slug": "lightfeather-io",
+      "fundingData": [],
+      "homePageURL": "https://www.lightfeather.io/",
+      "linkedInURL": "https://www.linkedin.com/company/lightfeather-io/mycompany/",
+      "sponsorsH1B": false,
+      "employeeRange": "51,200",
+      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/LightFeather.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=nIJLNc99YZU4vF6euG0p1osXYxrDUmPSn0R6OAjocvzDc8WqFvuU0FrRxBxGChKFlJUfaWTwQacvp0S18j6foRPcXQBIY12qLTMaix2x%2FfVMSxfTj3ghJLSbQlEXvS3ECe4CDjCfxdc5zgkx2qhiCYTVpEnclmf%2Fq3evfLFDQLHFPjuFWqAxurDqvojKMFxFF9eK6dgX%2BKOEQU1rOanvv6gob%2FQ0600dhkXW%2B%2FermGEP7tdRerSWRuO1osqfyMYk5v37yAv%2BmqeBtnMGwXomnJuPsi1qzPZR7oTVLzmFtDsMfxsSSpYVvfJTiD4MIUHlM37BaA8qaMDlveJT7OjFZQ%3D%3D",
+      "sponsorsUKSkilledWorkerVisa": false
+    }
+  },
+  {
     "id": 13818476,
     "created_at": "2024-11-27T03:04:53.938+00:00",
     "validUntilDate": null,
@@ -7999,43 +8089,51 @@
     }
   },
   {
-    "id": 13818478,
-    "created_at": "2024-11-27T03:04:53.938+00:00",
+    "id": 13818466,
+    "created_at": "2024-11-27T03:03:29.584+00:00",
     "validUntilDate": null,
     "dateDeleted": null,
-    "roleTitle": "ServiceNow Administrator - Developer",
-    "jobDescriptionSummary": "ServiceNow Administrator & Developer for DHS ServiceNow environment.",
-    "twoLineJobDescriptionSummary": "Join LightFeather as a ServiceNow Administrator & Developer, managing the DHS ServiceNow environment.",
-    "educationRequirementsCredentialCategory": "bachelor degree",
-    "url": "https://lightfeather.applytojob.com/apply/pCNeUhBb4a/ServiceNow-Administrator-And-Developer",
+    "roleTitle": "Software Engineer",
+    "jobDescriptionSummary": "Software Engineer II for application modernization and cloud solutions.",
+    "twoLineJobDescriptionSummary": "Join ASCENDING as a Software Engineer II for modernizing applications in government projects. Remote work opportunity with growth in AWS and full-stack development.",
+    "educationRequirementsCredentialCategory": null,
+    "url": "https://ascendingdc.applytojob.com/apply/WDuv3l2qNe/Software-Engineer-II",
     "seniorityRange": [
       "mid",
       "senior"
     ],
     "salaryRange": null,
     "techStack": [
-      "ITSM",
+      "AWS",
+      "Azure",
+      "Cloud",
       "JavaScript",
-      "ServiceNow",
-      "Swift"
+      "Node.js",
+      "PostGIS",
+      "Postgres",
+      "Python",
+      "React",
+      "SQL",
+      "TypeScript",
+      ".NET"
     ],
-    "slug": "servicenow-administrator-developer-united-states",
+    "slug": "software-engineer-united-states",
     "isPromoted": false,
     "employmentType": "full-time",
     "location": "United States",
     "locationHumanReadableText": "🇺🇸 United States",
-    "categorizedJobTitle": "Software Engineer",
+    "categorizedJobTitle": "Full-stack Engineer",
     "categorizedJobFunction": "Software Engineer",
     "company": {
-      "id": 92314,
-      "name": "LightFeather",
-      "slug": "lightfeather-io",
+      "id": 92297,
+      "name": "ASCENDING Inc.",
+      "slug": "ascendingdc",
       "fundingData": [],
-      "homePageURL": "https://www.lightfeather.io/",
-      "linkedInURL": "https://www.linkedin.com/company/lightfeather-io/mycompany/",
+      "homePageURL": "https://ascendingdc.com/",
+      "linkedInURL": "https://www.linkedin.com/company/ascendingllc",
       "sponsorsH1B": false,
-      "employeeRange": "51,200",
-      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/LightFeather.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=nIJLNc99YZU4vF6euG0p1osXYxrDUmPSn0R6OAjocvzDc8WqFvuU0FrRxBxGChKFlJUfaWTwQacvp0S18j6foRPcXQBIY12qLTMaix2x%2FfVMSxfTj3ghJLSbQlEXvS3ECe4CDjCfxdc5zgkx2qhiCYTVpEnclmf%2Fq3evfLFDQLHFPjuFWqAxurDqvojKMFxFF9eK6dgX%2BKOEQU1rOanvv6gob%2FQ0600dhkXW%2B%2FermGEP7tdRerSWRuO1osqfyMYk5v37yAv%2BmqeBtnMGwXomnJuPsi1qzPZR7oTVLzmFtDsMfxsSSpYVvfJTiD4MIUHlM37BaA8qaMDlveJT7OjFZQ%3D%3D",
+      "employeeRange": "11,50",
+      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/ASCENDING%20Inc..jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=ijOUeGCgAMjvVchnEmtGZZmdDn8MznXPSOWIwPVwzxkr%2BBOAJ0poyuJCXARTzDYQjkE9mbVvK%2FG%2FNTA%2BmN7KZ1tpjnUXktreb5wCWCSGB5x3Ycb85GiqvUX2sYOBhUNHJzSEGEICZqscfVvz55a2KJUjYf3KqNvuY8Vm4eiD0l6YxrXTuuk6SyKUNi9X1yAghfChbj4v5rkWMWewgH8OtE5KC8Tkd%2FTbKPLNMPQGX1H4J9gNQcWUnCJPqjUA1nqR7c5%2FR9l%2B5%2FvBgzkNE6ApA41dYmj%2FjdgVLLnLY2RBvUc87RC7d1ZNJ8PaBy7O2lRzYY20RFiSL0hB3ICUZZPiZg%3D%3D",
       "sponsorsUKSkilledWorkerVisa": false
     }
   },
@@ -8076,55 +8174,6 @@
     "location": "United States",
     "locationHumanReadableText": "🇺🇸 United States",
     "categorizedJobTitle": "Frontend Engineer",
-    "categorizedJobFunction": "Software Engineer",
-    "company": {
-      "id": 92297,
-      "name": "ASCENDING Inc.",
-      "slug": "ascendingdc",
-      "fundingData": [],
-      "homePageURL": "https://ascendingdc.com/",
-      "linkedInURL": "https://www.linkedin.com/company/ascendingllc",
-      "sponsorsH1B": false,
-      "employeeRange": "11,50",
-      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/ASCENDING%20Inc..jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=ijOUeGCgAMjvVchnEmtGZZmdDn8MznXPSOWIwPVwzxkr%2BBOAJ0poyuJCXARTzDYQjkE9mbVvK%2FG%2FNTA%2BmN7KZ1tpjnUXktreb5wCWCSGB5x3Ycb85GiqvUX2sYOBhUNHJzSEGEICZqscfVvz55a2KJUjYf3KqNvuY8Vm4eiD0l6YxrXTuuk6SyKUNi9X1yAghfChbj4v5rkWMWewgH8OtE5KC8Tkd%2FTbKPLNMPQGX1H4J9gNQcWUnCJPqjUA1nqR7c5%2FR9l%2B5%2FvBgzkNE6ApA41dYmj%2FjdgVLLnLY2RBvUc87RC7d1ZNJ8PaBy7O2lRzYY20RFiSL0hB3ICUZZPiZg%3D%3D",
-      "sponsorsUKSkilledWorkerVisa": false
-    }
-  },
-  {
-    "id": 13818466,
-    "created_at": "2024-11-27T03:03:29.584+00:00",
-    "validUntilDate": null,
-    "dateDeleted": null,
-    "roleTitle": "Software Engineer",
-    "jobDescriptionSummary": "Software Engineer II for application modernization and cloud solutions.",
-    "twoLineJobDescriptionSummary": "Join ASCENDING as a Software Engineer II for modernizing applications in government projects. Remote work opportunity with growth in AWS and full-stack development.",
-    "educationRequirementsCredentialCategory": null,
-    "url": "https://ascendingdc.applytojob.com/apply/WDuv3l2qNe/Software-Engineer-II",
-    "seniorityRange": [
-      "mid",
-      "senior"
-    ],
-    "salaryRange": null,
-    "techStack": [
-      "AWS",
-      "Azure",
-      "Cloud",
-      "JavaScript",
-      "Node.js",
-      "PostGIS",
-      "Postgres",
-      "Python",
-      "React",
-      "SQL",
-      "TypeScript",
-      ".NET"
-    ],
-    "slug": "software-engineer-united-states",
-    "isPromoted": false,
-    "employmentType": "full-time",
-    "location": "United States",
-    "locationHumanReadableText": "🇺🇸 United States",
-    "categorizedJobTitle": "Full-stack Engineer",
     "categorizedJobFunction": "Software Engineer",
     "company": {
       "id": 92297,
@@ -8898,6 +8947,54 @@
     }
   },
   {
+    "id": 13821763,
+    "created_at": "2024-11-27T00:00:00+00:00",
+    "validUntilDate": null,
+    "dateDeleted": null,
+    "roleTitle": "iOS Developer - Founding Engineer",
+    "jobDescriptionSummary": "iOS Developer for innovative social networking platform.",
+    "twoLineJobDescriptionSummary": "Join Meetsta as an iOS Developer. Help build advanced applications for a dynamic networking platform.",
+    "educationRequirementsCredentialCategory": "bachelor degree",
+    "url": "https://careers.meetsta.com/ios-developer-swift-founding-engineer-208660/",
+    "seniorityRange": [
+      "mid",
+      "senior"
+    ],
+    "salaryRange": {
+      "max": 2,
+      "min": 1,
+      "salaryType": "per year",
+      "currencyCode": "USD",
+      "currencySymbol": "$",
+      "maxSalaryAsUSD": 2,
+      "minSalaryAsUSD": 1,
+      "salaryHumanReadableText": "$1 - $2"
+    },
+    "techStack": [
+      "iOS",
+      "Swift"
+    ],
+    "slug": "ios-developer-founding-engineer-united-states",
+    "isPromoted": false,
+    "employmentType": "full-time",
+    "location": "United States",
+    "locationHumanReadableText": "🇺🇸 United States",
+    "categorizedJobTitle": "iOS Engineer",
+    "categorizedJobFunction": "Software Engineer",
+    "company": {
+      "id": 194566,
+      "name": "Meetsta",
+      "slug": "meetsta",
+      "fundingData": [],
+      "homePageURL": "https://meetsta.com/",
+      "linkedInURL": "https://www.linkedin.com/company/meetsta/",
+      "sponsorsH1B": false,
+      "employeeRange": "2,10",
+      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Meetsta.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=GMh5V44s%2FtM79vBlom1x9gyXP4iylGZrbvZkRuhQJFnNdy72LyyeU2E64peF4KYCI0LQk77t%2BHDF59nDDzZwcmpWB6EjxrqD5NhpRr9r%2F%2FBgZQqCdK1bM1Chpf09AFZyzpJFwkLkT48FGI0FxBhwclvEo%2FHpgKRz2vvuLbApX2Og4mLxhbWIbeC2gdF19aIHlPosS0jIdRljWHuZxadZWCEd0ChfZSlrl98O1Jl4VYBeqqSpInM4gFQLZXlA3fsVSYqWsXyyjJR7jl7OVSpBiYSolxXM6vD25Ptcz1ulhbUMwkP8QdKnSEK7%2BFqnt1YqgFhyv8zpvXOXXlrTvEwQrw%3D%3D",
+      "sponsorsUKSkilledWorkerVisa": false
+    }
+  },
+  {
     "id": 13821760,
     "created_at": "2024-11-27T00:00:00+00:00",
     "validUntilDate": null,
@@ -8934,54 +9031,6 @@
     "location": "United States",
     "locationHumanReadableText": "🇺🇸 United States",
     "categorizedJobTitle": "Android Engineer",
-    "categorizedJobFunction": "Software Engineer",
-    "company": {
-      "id": 194566,
-      "name": "Meetsta",
-      "slug": "meetsta",
-      "fundingData": [],
-      "homePageURL": "https://meetsta.com/",
-      "linkedInURL": "https://www.linkedin.com/company/meetsta/",
-      "sponsorsH1B": false,
-      "employeeRange": "2,10",
-      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Meetsta.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=GMh5V44s%2FtM79vBlom1x9gyXP4iylGZrbvZkRuhQJFnNdy72LyyeU2E64peF4KYCI0LQk77t%2BHDF59nDDzZwcmpWB6EjxrqD5NhpRr9r%2F%2FBgZQqCdK1bM1Chpf09AFZyzpJFwkLkT48FGI0FxBhwclvEo%2FHpgKRz2vvuLbApX2Og4mLxhbWIbeC2gdF19aIHlPosS0jIdRljWHuZxadZWCEd0ChfZSlrl98O1Jl4VYBeqqSpInM4gFQLZXlA3fsVSYqWsXyyjJR7jl7OVSpBiYSolxXM6vD25Ptcz1ulhbUMwkP8QdKnSEK7%2BFqnt1YqgFhyv8zpvXOXXlrTvEwQrw%3D%3D",
-      "sponsorsUKSkilledWorkerVisa": false
-    }
-  },
-  {
-    "id": 13821763,
-    "created_at": "2024-11-27T00:00:00+00:00",
-    "validUntilDate": null,
-    "dateDeleted": null,
-    "roleTitle": "iOS Developer - Founding Engineer",
-    "jobDescriptionSummary": "iOS Developer for innovative social networking platform.",
-    "twoLineJobDescriptionSummary": "Join Meetsta as an iOS Developer. Help build advanced applications for a dynamic networking platform.",
-    "educationRequirementsCredentialCategory": "bachelor degree",
-    "url": "https://careers.meetsta.com/ios-developer-swift-founding-engineer-208660/",
-    "seniorityRange": [
-      "mid",
-      "senior"
-    ],
-    "salaryRange": {
-      "max": 2,
-      "min": 1,
-      "salaryType": "per year",
-      "currencyCode": "USD",
-      "currencySymbol": "$",
-      "maxSalaryAsUSD": 2,
-      "minSalaryAsUSD": 1,
-      "salaryHumanReadableText": "$1 - $2"
-    },
-    "techStack": [
-      "iOS",
-      "Swift"
-    ],
-    "slug": "ios-developer-founding-engineer-united-states",
-    "isPromoted": false,
-    "employmentType": "full-time",
-    "location": "United States",
-    "locationHumanReadableText": "🇺🇸 United States",
-    "categorizedJobTitle": "iOS Engineer",
     "categorizedJobFunction": "Software Engineer",
     "company": {
       "id": 194566,
@@ -11619,60 +11668,6 @@
       "sponsorsH1B": false,
       "employeeRange": "11,50",
       "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Summit%20Racing%20Equipment.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=T%2F8GVYP714fHymC4ZTFvsDOVIfk8UVkyczaaFcapNTi1btVbg4DV3%2FL%2BwbuIrQ6QhZae8Q%2F1bz5oD8U2LFP0HrPGT%2B0vwN%2FujlMPouM4UsAZtuqnnaW%2FC4opZXKB%2BcO5o4du0%2Bcjbp8Ff6bsPJ7bSCEJEhBikwEUGb6Szmj1MRNYJiZkHORGW8HJU96cOc%2B2E81iauvl8MtqRN5HrIk0odlWNPwS%2Bhi1WWzZDonl08m2KpWnOPLMMMxoQGpjn0k6t4wQ2tBRIB7eg5Rq%2FE0ZdVCHsVCGvUxPpow57fvf13809MQMI00I0jmXZZVLjyPC5Sxta%2FWoFrLvBpWGF9PY3w%3D%3D",
-      "sponsorsUKSkilledWorkerVisa": false
-    }
-  },
-  {
-    "id": 13820034,
-    "created_at": "2024-11-25T08:55:18.206+00:00",
-    "validUntilDate": null,
-    "dateDeleted": null,
-    "roleTitle": "Senior Application Developer, Healthcare .NET",
-    "jobDescriptionSummary": "Lead application development in healthcare at Highmark.",
-    "twoLineJobDescriptionSummary": "Lead application development role at Highmark, focusing on healthcare solutions and customer needs.",
-    "educationRequirementsCredentialCategory": "bachelor degree",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/XMLNAME-NET-Senior-Application-Developer_J247659",
-    "seniorityRange": [
-      "senior"
-    ],
-    "salaryRange": {
-      "max": 124800,
-      "min": 67500,
-      "salaryType": "per year",
-      "currencyCode": "USD",
-      "currencySymbol": "$",
-      "maxSalaryAsUSD": 124800,
-      "minSalaryAsUSD": 67500,
-      "salaryHumanReadableText": "$67,500 - $124,800"
-    },
-    "techStack": [
-      "SDLC",
-      "SQL",
-      ".NET"
-    ],
-    "slug": "senior-application-developer-healthcare-net-united-states",
-    "isPromoted": false,
-    "employmentType": "full-time",
-    "location": "United States",
-    "locationHumanReadableText": "🇺🇸 United States",
-    "categorizedJobTitle": "Backend Engineer",
-    "categorizedJobFunction": "Software Engineer",
-    "company": {
-      "id": 181965,
-      "name": "Highmark Health",
-      "slug": "careers-highmarkhealth-org",
-      "fundingData": [
-        {
-          "fundingType": "Grant",
-          "moneyRaised": 5000000,
-          "announcedDate": "2021-05-09"
-        }
-      ],
-      "homePageURL": "https://careers.highmarkhealth.org/",
-      "linkedInURL": "https://www.linkedin.com/company/highmark-health/",
-      "sponsorsH1B": true,
-      "employeeRange": "10001,",
-      "profilePicURL": "https://storage.googleapis.com/remote-rocket.appspot.com/Highmark%20Health.jpeg?GoogleAccessId=firebase-adminsdk-ptm37%40remote-rocket.iam.gserviceaccount.com&Expires=16447017600&Signature=NfDT0b8bH56blFVMhOywJBnnVVxOzgk9DXB1B1K6oXmodFQ4JuX6p6v0%2B0xemia%2BpNgy90KQlbvA%2FiXg4oASkY2FOZHbSLd5ljthwJF7RbzUQmNtyz4AsCz2c8D4%2FMygOY2I1aOkMOSNPkRSiYFoeCmMscSSeyD9jUkBP4CyPSZsryprOuXzIDcuS9zQyVyXvNau6frK4pBz%2BzUY6sFAmxLMzmRa0%2BM9jchpdajMu2BCsyh6tz4%2BTf3hPKC3r0%2BEZpVcgEaPwleaoOxDpQfjSqLNYmdnn5W7bUepFNyv5IG6yWuzFx4M2q4lOPVdZ49dXSPsnuufppuh70jQ7nX1Eg%3D%3D",
       "sponsorsUKSkilledWorkerVisa": false
     }
   }
