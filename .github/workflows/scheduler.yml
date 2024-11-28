@@ -34,7 +34,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
-          git reset --soft origin/main
+          git checkout -b update-csv-files
           git add jobs_remoterocketship.csv jobs_smartrecruiters.csv
           git commit -m "Update job openings CSV files [skip ci]" || echo "No changes to commit"
-          git push origin main
+          git push origin update-csv-files
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: update-csv-files
+          base: main
+          title: "Update job openings CSV files"
+          body: "Automated update of CSV files."
+
